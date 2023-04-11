@@ -1,0 +1,23 @@
+{
+  "name": "citest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "sleep 10 && echo \"Success: dummy test succeeded\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greyfish/citest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greyfish/citest/issues"
+  },
+  "homepage": "https://github.com/greyfish/citest#readme",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
